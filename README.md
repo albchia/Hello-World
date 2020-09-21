@@ -1,2 +1,2 @@
 # Hello-World
-This is my first repository created. What a challenge has the tech world!
+This is my first repository created. What a challenge is the tech world!
