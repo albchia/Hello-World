@@ -1,6 +1,7 @@
 # Hello-World
-This is my first repository created. What a challenge is the tech world!
+This is my first repository created. The tech sector is really an adventuring world!
 
+What about me?
 I am Passionate about learning, training and education, teaching to others what I learn. 
 I have also a big interest in international cooperation, environment, development, sustainability in a Global and Local perspective. My background starts here.
 I also discovered a passion about the tech world, first relating to Office Package, then I approach the big world of coding and programming... what a discover!
